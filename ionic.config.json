@@ -1,0 +1,8 @@
+{
+  "name": "Medical Services App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2b9aef20"
+}
